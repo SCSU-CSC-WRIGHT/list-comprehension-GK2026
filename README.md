@@ -14,6 +14,9 @@ C: 70-79
 D: 60-69
 F: below 60
 - Print the average score and corresponding letter grade.
+def lab_1():
+
+
 
 
 #### Lab 2: Even and Odd Numbers Counter
